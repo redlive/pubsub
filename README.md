@@ -16,4 +16,5 @@ pubsub.subscribe('channelName' , function( data ){
 });
 
 For publishing:
+
 pubsub.publish('channelName' , {});
