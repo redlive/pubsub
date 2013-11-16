@@ -1,3 +1,10 @@
+/*
+ * redlive PUBSUB implementation
+ * https://github.com/redlive/pubsub
+ *
+ * Created; 01/06/2013 by Vilder Evgeny
+ */
+
 (function( global ){
 	"use strict";
 
