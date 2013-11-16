@@ -6,7 +6,7 @@ PUBSUB
 
 Author: Vilder Eugene
 Created: 01/08/2013
-Description: This is my implemintation of Publish / Subcribe.
+Description: This is my implementation of Publish / Subcribe.
 
 Usage:
 To set subscribes channels:  
